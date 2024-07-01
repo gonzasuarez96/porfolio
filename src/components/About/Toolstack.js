@@ -7,23 +7,26 @@ import {
   SiVercel,
   SiMacos,
 } from "react-icons/si";
+import {
+  DiJira,
+} from "react-icons/di";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+      <Col xs={4} md={2} className="tech-icons" title="Jira">
+        <DiJira />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="Visual Studio Code">
         <SiVisualstudiocode />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="Postman">
         <SiPostman />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="Slack">
         <SiSlack />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="Vercel">
         <SiVercel />
       </Col>
     </Row>

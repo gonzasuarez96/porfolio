@@ -8,6 +8,9 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
+  DiGithubAlt,
+  DiHtml5,
+  DiCss3,
   DiJava,
 } from "react-icons/di";
 import {
@@ -22,47 +25,36 @@ import { TbBrandGolang } from "react-icons/tb";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
+  
+  <Col xs={4} md={2} className="tech-icons" title="JavaScript">
         <DiJavascript1 />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+      <Col xs={4} md={2} className="tech-icons" title="HTML5">
+        <DiHtml5 />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="CSS3">
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" title="Node.js">
         <DiNodejs />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="React">
         <DiReact />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="Next.js">
         <SiNextdotjs />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="Git">
         <DiGit />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+      <Col xs={4} md={2} className="tech-icons" title="GitHub">
+        <DiGithubAlt />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="PostgreSQL">
         <SiPostgresql />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons" title="Python">
         <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
       </Col>
     </Row>
   );
