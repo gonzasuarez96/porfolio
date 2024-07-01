@@ -20,19 +20,8 @@ Actualmente estoy en busqueda laboral, cuento con un buen manejo de ingles. Aqui
 y proyectos en los que he participado.
             <br />
             <br />
-            Pero ademas de esto, tambien soy:
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Gamer
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Cinefilo
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Tenista
-            </li>
-          </ul>
+
         </blockquote>
       </Card.Body>
     </Card>
