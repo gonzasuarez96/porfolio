@@ -35,7 +35,7 @@ function Projects() {
               technologiesBack="Java, Spring Boot"
               technologiesDB="MySql"
               ghLink="https://github.com/No-Country-simulation/c14-27-m-java-react"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://multiplace.vercel.app/"
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Projects() {
               technologiesBack="Php"
               technologiesDB=""
               ghLink="https://github.com/No-Country-simulation/s12-16-ft-php-next"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://stock-manager-web.vercel.app/login"
             />
           </Col>
 
