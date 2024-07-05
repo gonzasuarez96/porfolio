@@ -15,7 +15,8 @@ function AboutCard() {
             <br />
             He participado en
 proyectos voluntarios para mejorar y practicar mis habilidades, no solo tecnicas, sino tambien mis habilidades en equipo,
-organizacion y resolucion de problemas.
+organizacion y resolucion de problemas, ya que he participado como team leader.
+            <br />
 Actualmente estoy en busqueda laboral, cuento con un buen manejo de ingles. Aqui podras encontrar las tecnologias que manejo
 y proyectos en los que he participado.
             <br />

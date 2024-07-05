@@ -25,16 +25,16 @@ function Home2() {
               
                 <b className="purple"> desarrollador web Full Stack </b>
               
-              con una formación en Ingeniería Ambiental.
+              ex estudiante de Ingeniería Ambiental.
               <br />
               <br />
               Me especializo principalmente como&nbsp;
               
                 <b className="purple">Frontend Developer </b> utilizando tecnologías como{" "}
                 <b className="purple">
-                JavaScript, React.js y Next.js.
+                JavaScript, React.js, Next.js
                 </b>
-              
+                &nbsp;y distintos frameworks.
               <br />
               <br />
               Tambien cuento con experiencia en <b className="purple">Ventas </b> 

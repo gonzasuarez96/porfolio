@@ -49,7 +49,7 @@ function Projects() {
               technologiesBack="Php"
               technologiesDB=""
               ghLink="https://github.com/No-Country-simulation/s12-16-ft-php-next"
-              demoLink="https://stock-manager-web.vercel.app/login"
+              demoLink="https://stock-manager-web.vercel.app/dashboard"
             />
           </Col>
 
