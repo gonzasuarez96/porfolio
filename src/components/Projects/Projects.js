@@ -71,7 +71,7 @@ function Projects() {
         <h1 className="project-heading">
           Mis <strong className="purple">Pasantias </strong>
         </h1>
-          <Col md={4} className="project-card">
+          <Col md={4} className="project-card"> 
             <ProjectCard
               imgPath={EnergialyMock}
               isBlog={false}
@@ -81,7 +81,7 @@ function Projects() {
               technologiesBack="Javascript, Node.js, Express.js"
               technologiesDB="PostgreSql"
               ghLink="https://github.com/energialy/energialy-app"
-              demoLink="https://s13-09-ft-node-react.vercel.app/"              
+              demoLink="https://energialy2-0.vercel.app/"              
             />
           </Col>
         </Row>
